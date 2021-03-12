@@ -1,0 +1,29 @@
+@media (max-width: 767px) {
+    .movilsize .xs-width-100 {
+        width: 100%;
+        text-align: left;
+        padding-top: 40px;
+    }
+    
+    .movilsize p {
+        width: 100%;
+        text-align: left;
+        font-size: 2.369rem;
+        line-height: 34px;
+        padding-bottom: 20px;
+    }
+   
+    .movil-data-call{
+        font-size: 1.369rem !important;
+    }
+
+
+}
+
+@media (max-width: 812px) {
+	.ms-width-100 {
+		width: 100% !important;
+	  }
+	
+
+}
