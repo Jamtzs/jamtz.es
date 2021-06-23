@@ -11914,8 +11914,9 @@ header.sticky nav.navbar.brand-center ul.nav > li > a {
 .list-style-5 li {
 	position: relative;
 	padding: 0 0 10px 22px;
-	margin: 0 0 10px 0;
-	border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+	margin: 0 0 20px 0;
+	line-height: 22px;
+	/*border-bottom: 1px solid rgba(0, 0, 0, 0.1);*/
 }
 .list-style-5 li:before {
 	content: "\f192";
@@ -11924,7 +11925,7 @@ header.sticky nav.navbar.brand-center ul.nav > li > a {
 	left: 0;
 	font-family: Font Awesome\ 5 Free;
 	font-weight: 400;
-	color: #c0c0c0;
+	color: #ff6347;
 }
 .list-style-5 li:last-child {
 	border-bottom: 0;
